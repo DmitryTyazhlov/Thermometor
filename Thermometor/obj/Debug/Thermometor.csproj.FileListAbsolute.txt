@@ -1,0 +1,10 @@
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\obj\Debug\Thermometor.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\obj\Debug\Thermometor.Form1.resources
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\obj\Debug\Thermometor.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\obj\Debug\Thermometor.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\obj\Debug\Thermometor.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\bin\Debug\Thermometor.exe.config
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\bin\Debug\Thermometor.exe
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\bin\Debug\Thermometor.pdb
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\obj\Debug\Thermometor.exe
+C:\Users\Dmitry\source\repos\Thermometor\Thermometor\obj\Debug\Thermometor.pdb
